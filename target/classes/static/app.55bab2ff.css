@@ -1,0 +1,23 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.grid-area {
+  margin-top: 30px;
+}
+.grid-area table {
+  max-width: 900px;
+  margin: auto;
+  user-select: none;
+}
+.grid-area td {
+  align-content: center;
+  text-align: center;
+  padding: 10px;
+}
+.grid-area td.selected {
+  color: rgba(255, 103, 15, 0.973);
+  font-family: Arial;
+}
+
+/*# sourceMappingURL=/app.55bab2ff.css.map */

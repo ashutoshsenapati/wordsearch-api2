@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"app.ae05fb60.css","sourceRoot":"../src","sourcesContent":["*{\n    font-family: -apple-system;\n}\n\n.grid-area{\n    max-width: 1000px;\n    margin: auto;\n}\n\n"]}
